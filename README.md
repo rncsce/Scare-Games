@@ -9,6 +9,8 @@
 - Main.cpp
 - README.md
 - Monster.txt
+- TournamentTree-1.txt (Single)
+- TournamentTree-2.txt (Double)
 ## Known Errors:
 ## References:
 - https://stackoverflow.com/questions/12809776/can-a-for-loop-increment-decrement-by-more-than-one
