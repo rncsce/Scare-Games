@@ -11,6 +11,8 @@
 - Monster.txt
 - TournamentTree-1.txt (Single)
 - TournamentTree-2.txt (Double)
+- - TournamentTree-1.svg (Single)
+- TournamentTree-2.svg (Double)
 ## Known Errors:
 ## References:
 - https://stackoverflow.com/questions/12809776/can-a-for-loop-increment-decrement-by-more-than-one
