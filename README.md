@@ -11,7 +11,7 @@
 - Monster.txt
 - TournamentTree-1.txt (Single)
 - TournamentTree-2.txt (Double)
-- - TournamentTree-1.svg (Single)
+- TournamentTree-1.svg (Single)
 - TournamentTree-2.svg (Double)
 ## Known Errors:
 ## References:
@@ -25,3 +25,5 @@
 ### Single Tournament
 - Compile: g++ -o Main *.cpp
 - Run: ./Main Monsters.txt single
+## Online Graphiz Online Tool (Visual DOT Files)
+- https://dreampuf.github.io/GraphvizOnline/
